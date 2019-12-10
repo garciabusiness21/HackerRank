@@ -1,0 +1,16 @@
+/*Complete the function solveMeFirst to compute the sum of two integers.
+
+Function prototype:
+
+int solveMeFirst(int a, int b);
+
+where,
+
+    a is the first integer input.
+    b is the second integer input*/
+
+
+function solveMeFirst(a, b) {
+  var sum = a+b;
+  return sum;
+}
